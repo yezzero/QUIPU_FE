@@ -17,7 +17,8 @@ body {
     justify-content: center;
     max-width: 75%;
     margin: 0 auto;
-    flex-wrap: wrap;    
+    flex-wrap: wrap;   
+    padding-top: 100px; 
 }
 
 .card {
@@ -30,6 +31,7 @@ body {
     height: 250px;
     margin: 30px;
     width: 200px;
+    margin-top: 50px;
 }
 
 .card img {
