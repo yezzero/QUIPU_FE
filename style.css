@@ -15,9 +15,9 @@ body {
     width: 100%;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
     max-width: 75%;
     margin: 0 auto;
+    flex-wrap: wrap;    
 }
 
 .card {
@@ -49,12 +49,6 @@ body {
 .card p {
     margin-top: 6px;
 }
-
-/*p:hover{
-    font-style:oblique;
-    font-weight:800;
-    color:pink;
-}*/
 
 .card:hover {
     transform: translateY(-10px);
